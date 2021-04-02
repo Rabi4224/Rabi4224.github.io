@@ -5,6 +5,7 @@
 .table{
     background-color: rgb(5, 5, 5);
     color: white;
+ 
 }
 .pic{
     font-size: medium;
@@ -13,17 +14,24 @@
     position: absolute;
     left: 100px;
     bottom: 60px;
+
+}
+
+.pics{
+   
+
+
 }
 .program{
     color: green;
     text-align: center; 
 }
-.about {
+/* .about {
     color: blueviolet;
     padding-left: 100PX;
     padding-bottom: 350PX;
     padding-right: 100PX;
-}
+} */
 .years{
 color: green;
 
