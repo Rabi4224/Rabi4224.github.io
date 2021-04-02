@@ -1,0 +1,35 @@
+* body{
+    background-color: rgba( 0,0 ,0 ,0.9);
+
+}
+.table{
+    background-color: rgb(5, 5, 5);
+    color: white;
+}
+.pic{
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    color: white ;
+    position: absolute;
+    left: 100px;
+    bottom: 60px;
+}
+.program{
+    color: green;
+    text-align: center; 
+}
+.about {
+    color: blueviolet;
+    padding-left: 100PX;
+    padding-bottom: 350PX;
+    padding-right: 100PX;
+}
+.years{
+    color: green1;
+}
+.black{
+    color:rgb(165, 164, 164)
+
+    ;
+
+}
